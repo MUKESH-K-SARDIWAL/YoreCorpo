@@ -1,0 +1,1093 @@
+
+@media only screen and (max-width: 768px) {
+    p{
+        margin-bottom: 0;
+    }
+    .mob-w-75{
+        width: 75%;
+    }
+    .mob-w-90{
+        width: 90%;
+    }
+    .mob-text-center{
+        text-align: center;
+    }
+    .mob-mx-auto{
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .txt-35 {
+        font-size: 14px !important;
+    }
+    .lh-sm {
+        line-height: 16px !important;
+    }
+    .yor-btn {
+        font-size: 14px;
+    }
+    .y-card {
+        padding: 30px;
+        border-radius: 50px;
+    }
+    h4.y-title {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    h3.y-title {
+        font-size: 24px;
+        line-height: 28px;
+    }
+    h6.y-title {
+        font-size: 14px;
+    }
+    h5.y-title {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    p.y-para {
+        font-size: 14px;
+        line-height: 16px;
+        margin-bottom: 0;
+    }
+
+    .mob-animi-box{
+        display: block;
+        width: 100%;
+        min-height: 187px;
+        background: #FAFAFA;
+        border-radius: 23px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .top-curv span {
+        border-bottom-left-radius: 40px;
+    }
+    .curv-cont {
+        border-top-right-radius: 40px;
+        border-bottom-left-radius: 40px;
+    }
+    .bottom-curv span {
+        border-top-right-radius: 40px;
+    }
+
+    .prod-bar {
+        margin-bottom: -90px;
+    }
+    .prod-bar .nav-tabs li a.active span {
+        width: 45px;
+        height: 45px;
+        border-radius: 50%;
+        background: #F6CC00;
+        /* background: #fff; */
+        display: block;
+        box-shadow: none;
+        transform: scale(1.06);
+    }
+
+    .prod-bar .nav-tabs li a span {
+        width: 45px;
+        height: 45px;
+        border-radius: 50%;
+        /* background: #F6CC00; */
+        transition: all 0.4s ease;
+        background: #fff;
+        display: block;
+        box-shadow: 0px 0px 24px rgba(0, 0, 0, 0.18);
+    }
+    .prod-bar .nav-tabs li {
+        margin: 0px 0px 0px 0px!important;
+    }
+    .prod-bar .nav-tabs li a {
+        padding: 8px 8px;
+    }
+    .prod-bar .nav-tabs li a h6 {
+        font-size: 10px;
+        bottom: -30px;
+        width: 65%;
+        top: 65px;
+    }
+    .curv-left {
+        left: -11px;
+        top: 22px;
+    }
+    .curv-left img {
+        width: 13px;
+    }
+    .curv-right {
+        right: -57px;
+        top: 2px;
+    }
+    .curv-right img {
+        width: 14px;
+    }
+
+
+    /*---HOME SCREEN --*/
+    .titl-h3 {
+        font-size: 24px;
+        line-height: 28px;
+        letter-spacing: 0.0033em;
+    }
+    .tabs {
+        width: 100%;
+        box-shadow: none;
+        background: transparent;
+    }
+    .tabs a {
+        padding: 10px 10px;
+        font-size: 13px;
+        background: rgba(255, 255, 255, 0.04);
+        border-radius: 56.172px;
+    }
+    .yr-tab {
+        margin: 0 5px;
+    }
+    .home-page .section-02 .curv-cont{
+        padding-top: 60px;
+        padding-bottom: 30px;
+    }
+    .hero-wrap {
+        padding-top: 100px;
+        padding-bottom: 10px;
+    }
+    #hero h1 {
+        font-size: 24px;
+        line-height: 28px;
+      }
+    #hero .hero-img {
+        padding-bottom: 0px;
+        padding-top: 0px;
+    }
+    .home-page .section-02 .conten-box {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .process-model {
+        display: flex;
+        justify-content: center;
+    }
+    .process-model li {
+        padding-bottom: 0px;
+        width: 100%;
+    }
+    .process-model li a {
+        flex-direction: column;
+    }
+    .process-model li::after {
+        height: 2px;
+        right: 0;
+        left: 40px;
+        top: 10px !important;
+        width: 100%;
+    }
+    .process-model li p {
+        font-size: 10px;
+    }
+    .finan-health-tab-conten {
+        margin-left: 0px;
+        text-align: center;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .finan-health-tab-conten .hero-img{
+        padding-top: 20px;
+        padding-bottom: 30px;        
+    }
+    .finan-health-tab-conten h4{
+        font-size: 24px;
+        line-height: 123.5%;
+    }
+    .home-page .section-03 .conten-box {
+        position: relative;
+        transform: none;
+        top: auto;
+        left: auto;
+    }
+    .home-page .section-03 {
+        padding-top: 5px;
+        padding-bottom: 45px;
+    }
+    .chrt-left-box img {
+        margin: -5px;
+    }
+    .chrt-right-box img {
+        margin: -5px;
+    }
+    .home-page .section-05 {
+        margin-bottom: 40px;
+    }
+
+    /*---Help Section --*/
+    .chat-area {
+        padding: 25px;
+    }
+    .lang-tab ul li {
+        margin: 4px;
+    }
+    .lang-tab ul li a {
+        font-size: 12px;
+        padding: 6px 20px;
+        line-height: 18px;
+        letter-spacing: 0.0033em;
+    }
+    #search-input {
+        padding: 18px 100px 18px 18px;
+        font-size: 12px;
+        line-height: 14px;
+    }
+    .title h3 {
+        font-size: 24px;
+    }
+    .title h5 {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .yoyo-animi img{
+        padding: 70px;
+    }
+
+    /*---Reword Section --*/
+    .rwd-box {
+        margin: 0 10px;
+        padding: 30px 30px 30px 30px;
+    }
+    .rd-titl {
+        position: relative;
+        left: inherit;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .rwd-box h6{
+        position: relative;
+        transform: none;
+        left: inherit;
+        font-size: 14px;
+        line-height: 16px;
+        text-align: left;
+    }
+    .rwd-box h4 {
+        font-size: 20px;
+        line-height: 123.5%;
+    }
+    .rwd-box p {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .rwd-box .rd-img{
+        min-height: 218px;
+        max-height: 218px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .rwd-box .rd-img img{
+        height: 200px;
+    }
+    
+
+    /*---Banking Pay Section --*/
+
+    .prod-titl {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .prod-titl h2 {
+        font-size: 28px;
+    }
+    .banking-pay-section-01 .y-card{
+        text-align: center;
+    }
+    .banking-pay-section-01 .y-card .yor-btn {
+        font-size: 12px;
+        padding: 12px 35px;
+    }
+    ul.list-tab-style1 li button {
+        font-size: 14px;
+    }
+    .trm-con {
+        font-size: 10px;
+        line-height: 12px;
+    }
+
+    /*---Split Pay Section --*/
+
+    .split-pay-section-01 .y-card,
+    .split-pay-section-02 .y-card{
+        text-align: center;
+    }
+
+    /*---Postpaid Accounty Section --*/
+
+    p.y-para2 {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .postpaid-pay-section-01 .y-card{
+        text-align: center;
+    }
+    .trm-con2{
+        font-size: 12px;
+        list-style: 14px;
+      }
+
+    .postpaid-pay-section-02 {
+        padding-bottom: 0px;
+        padding-top: 0px;
+    }
+      .postpaid-pay-section-03 .y-card-sm h4.y-title {
+        font-size: 18px;
+        line-height: 21px;
+        margin-top: 20px;
+      }
+      .postpaid-pay-section-03 .y-card-sm {
+        border-radius: 40px;
+        margin-bottom: 20px;
+        padding: 20px;
+        text-align: center;
+      }
+      .postpaid-pay-section-03 .y-card-sm .animi-icon{
+        margin: 0 auto;
+      }
+      .postpaid-pay-section-03 .y-card-sm .animi-icon img{
+        width: 90px;
+      }
+
+    /*---Card Pay Section --*/
+
+    .cards-pay-section-01 .animi-icon-box {
+        margin-bottom: -30px;
+    }
+    .cards-pay-section-02 {
+        padding-top: 0px;
+        padding-bottom: 60px;
+    }
+    .cards-pay-section-02 .y-card-sm{
+        margin-bottom: 10px;
+        border-radius: 40px;
+    }
+    .cards-pay-section-02 .y-card-sm .animi-icon img {
+        max-width: 100%;
+    }
+    .cards-pay-section-02 .y-card-sm .animi-icon {
+        margin-bottom: -45px;
+    }
+
+    .cards-pay-section-03 .y-card .animi-icon {
+        margin-bottom: -30px;
+        margin-right: -30px;
+        margin-left: 0px;
+        margin-top: -80px;
+    }
+    .cards-pay-section-04 {
+        padding-top: 10px;
+        padding-bottom: 0px;
+    }
+    .cards-pay-section-04 .y-card .animi-icon-box {
+        margin-bottom: 15px;
+        margin-right: 0;
+        margin-left: 0;
+        border-radius: 23px;
+        background: #FAFAFA;
+    }
+
+    /*---crypto Pay Section --*/
+    .crypto-pay-section-01 .y-card{
+        text-align: center;
+    }
+    .crypto-pay-section-01 .y-card h4 {
+        font-size: 14px;
+    }
+    .crypto-pay-section-02 {
+        padding-top: 0px;
+        padding-bottom: 40px;
+    }
+    .crypto-pay-section-02 .y-card-sm{
+        border-radius: 40px;
+        margin-bottom: 10px;
+    }
+
+    .crypto-pay-section-02 .y-card-sm h4.y-title{
+        font-size: 18px;
+        line-height: 21px;
+    }
+    .crypto-pay-section-03 .y-card{
+        text-align: center;
+    }
+
+   /*---Yore- Finances Page --*/
+   /*---cash-flow-manager section --*/
+
+    .prod-titl2 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    h2.y-title {
+        font-size: 24px;
+        line-height: 28px;
+    }
+    .cashflow-finances-section-02 {
+        padding-bottom: 0px;
+    }
+    .cashflow-finances-section-02 .y-card {
+        margin-bottom: 15px;
+    }
+    .cashflow-finances-section-02 .y-card h3.y-title{
+        font-size: 18px;
+        line-height: 21px;
+    }
+    .cashflow-finances-section-03 .y-card h3.y-title{
+        font-size: 18px;
+        line-height: 21px;
+    }
+    .cashflow-finances-section-04 .y-card {
+        text-align: center;
+    }
+    .cashflow-finances-section-04 .y-card .animi-icon {
+        margin-bottom: -30px;
+    }
+
+     /*---networth-analysis section --*/
+
+     .networth-finances-section-01 .y-card{
+        text-align: center;
+     }
+     .networth-finances-section-03 .y-card .animi-icon-box {
+        margin-bottom: -30px;
+        margin-top: -30px;
+    }
+    .networth-finances-section-03 .y-card .animi-icon-box img{
+        height: 284px;
+        object-fit: cover;
+    }
+
+     /*---Credit-Health-Manager section --*/
+     .credit-health-finances-section-02 {
+        padding-top: 0px;
+    }
+    .credit-health-finances-section-02 .y-card-sm{
+        border-radius: 40px;
+        padding: 20px;
+        width: 160px;
+    }
+    .credit-health-finances-section-02 .y-card-sm p{
+        margin-bottom: 0;
+    }
+    .credit-health-finances-section-02 .crd-step-row{
+        flex-wrap: nowrap;
+        overflow: auto;
+    }
+    .credit-health-finances-section-02 .crd-step-row .col{
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .credit-health-finances-section-02 .crd-step-row .col p.y-para {
+        font-size: 12px;
+    }
+
+    /*---Loaning section --*/
+    .lending-borrowing-finances-section-02 {
+        padding-top: 50px;
+        padding-bottom: 40px;
+    }
+
+    /*---Budget Tracker section --*/
+    .budget-finances-section-01 .y-card {
+        text-align: center;
+    }
+    .budget-finances-section-01 .y-card .animi-icon {
+        margin-bottom: 30px;
+        margin-left: 0;
+        margin-top: 30px;
+    }
+    .budget-finances-section-01 .y-card .animi-icon img{
+        margin-bottom: 0px;
+        margin-left: -30px;
+        margin-top: 0px;
+    }
+    .budget-finances-section-02 {
+        padding-top: 0px;
+        padding-bottom: 60px;
+    }
+    .goals-card-row{
+        flex-wrap: nowrap;
+        overflow: auto;
+    }
+    .goals-icon {
+        width: 80px;
+        height: 80px;
+        margin-bottom: 10px;
+    }
+    .budget-finances-section-04 {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    /*---Yore- Credite Page --*/
+   /*---micro-credit section --*/
+   .micro-credit-section-01 {
+        padding-bottom: 50px;
+    }
+   .micro-credit-section-01 .y-card {
+        padding-left: 30px;
+        padding-right: 30px;
+        text-align: center;
+    }
+   .mcrd-step-title {
+        font-size: 14px;
+        line-height: 16px;
+        max-width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .sml-step {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .sml-step li .step-lnk {
+        width: 30px;
+        height: 30px;
+    }
+    .sml-step li span {
+        font-size: 14px;
+    }
+    .sml-step li:after {
+        right: 30px;
+    }
+    .sml-step li:last-child::after {
+        display: block;
+        right: -30px;
+        left: -30px;
+        width: auto;
+    }
+    .start-steps{
+        margin-top: 30px;
+        width: 232px;
+        height: 469px;
+        border-radius: 40px;
+        margin-right: auto;
+    }
+    .micro-credit-section-02 .y-card{
+        text-align: center;
+    }
+    .micro-credit-section-03 {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .expand-box {
+        height: 187px;
+        border-radius: 23px;
+        margin-right: 0px;
+        margin-bottom: 15px;
+        margin-top: 30px;
+    }
+    .micro-credit-section-03 .y-card{
+        text-align: center;
+    }
+
+    /*---p2p-credit section --*/
+    .p2p-credit-section-01 {
+        padding-bottom: 50px;
+    }
+    .p2p-credit-section-01 .p2p-card p {
+       font-size: 12px;
+       line-height: 14px;
+       margin-bottom: 20px;
+    }
+    .p2p-card{
+        padding: 20px;
+    }
+    .p2p-card h3 {
+        font-size: 18px;
+        line-height: 21px;
+        margin-bottom: 20px;
+    }
+    .p2p-card .int-lnk {
+        left: -25px;
+        width: 40px;
+        height: 24px;
+        border: 3px solid #F1F5FF;
+        font-size: 10px;
+    }
+    ul.dot-list-style li {
+        font-size: 12px;
+        line-height: 14px;
+    }
+    .p2p-credit-section-03 {
+        padding-top: 0px;
+        padding-bottom: 40px;
+    }
+    .offer-avail-list li button {
+        font-size: 14px;
+        line-height: 16px;
+        border-radius: 10px;
+        padding: 16px;
+    }
+    .alav-box {
+        width: 29%;
+        margin-bottom: 15px;
+    }
+    .alav-box .y-card-sm {
+        min-height: 108px;
+        border-radius: 10px;
+    }
+    .alav-box h6 {
+        font-size: 13px;
+        line-height: 16px;
+        width: 100%;
+        margin-top: 10px;
+    }
+    .ofr-alv-tab-cont {
+        column-gap: 18px;
+        margin-top: 15px;
+    }
+    .p2p-credit-section-04 .y-card{
+        text-align: center;
+    }
+    .p2p-credit-section-05 {
+        padding-top: 50px;
+        padding-bottom: 10px;
+    }
+    .p2p-credit-section-05 .y-card-sm .int-lnk {
+        top: -15px;
+        font-size: 10px;
+        padding: 8px 10px;
+        width: 90px;
+    }
+    .p2p-credit-section-05 .y-card-sm {
+        margin-bottom: 40px;
+    }
+
+     /*---personal-credit section --*/
+     .personal-credit-section-02{
+        padding-top: 0px;
+        padding-bottom: 50px;
+     }
+     .personal-credit-section-02 .y-card-sm{
+        margin-bottom: 25px;
+        text-align: center;
+        border-radius: 40px;
+     }
+     .personal-credit-section-03 {
+        padding-bottom: 0px;
+    }
+     .personal-credit-section-03 .y-card {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .personal-credit-section-04 {
+        padding-top: 60px;
+        padding-bottom: 10px;
+    }
+    .personal-credit-section-04 .y-card-sm {
+        margin-bottom: 40px;
+    }
+    .personal-credit-section-04 .y-card-sm .int-lnk {
+        left: 50%;
+        transform: translateX(-50%);
+        top: -15px;
+        width: 90px;
+        border: 4px solid #F1F5FF;
+        font-size: 10px;
+        padding: 8px 15px;
+    }
+
+     /*---gold-credit section --*/
+     .gold-credit-section-01 {
+        padding-bottom: 50px;
+        margin-top: -30px;
+    }
+    .gold-credit-section-02 {
+        padding-bottom: 50px;
+    }
+    .gold-credit-section-02 .y-card-sm {
+        margin-bottom: 15px;
+    }
+    .loan-eligible {
+        padding: 0px;
+    }
+    .loan-eligible p {
+        font-size: 14px;
+        line-height: 16px;
+        min-height: auto;
+    }
+    .loan-eligible input {
+        height: 50px;
+        font-size: 18px;
+        line-height: 21px;
+        margin: 10px 0;
+    }
+    .loan-eligible h5.y-title{
+        font-size: 18px;
+        line-height: 21px;
+    }
+    .gold-credit-section-02 .y-card-sm .int-lnk {
+        width: 36px;
+        height: 36px;
+        left: 50%;
+        top: -24px;
+        transform: translateX(-50%);
+        border: 2px solid #F1F5FF;
+    }
+    .gold-credit-section-02 .y-card-sm .int-lnk svg{
+        width: 100%;
+        margin-top: -5px;
+    }
+    .gold-credit-section-03 .y-card{
+        text-align: center;
+    }
+    .gold-credit-section-03 .y-card .animi-icon{
+    }
+    .gold-credit-section-03 .y-card .animi-icon img{
+        height: 213px;
+        padding: 10px;
+    }
+    .gold-credit-section-04 {
+        padding-top: 0px;
+        padding-bottom: 50px;
+    }
+    /*---vehicle-credit section --*/
+    .vehicle-credit-section-01 .y-card-sm {
+        /* margin-bottom: 14px; */
+        padding: 20px;
+        border-radius: 30px;
+        text-align: left;
+        min-height: 174px;
+    }
+    .vehicle-credit-section-01 .y-card-sm .col-md-12.text-md-center{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 134px;
+    }
+    .vehicle-credit-section-01 .y-card-sm h4.y-title {
+        font-size: 16px;
+        line-height: 19px;
+    }
+    .vehicle-credit-section-02 {
+        padding-top: 50px;
+        padding-bottom: 0px;
+    }
+    .vehicle-credit-section-04 .y-card{
+        text-align: center;
+    }
+    .vehicle-credit-section-04 .y-card .animi-icon img{
+        height: 170px;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    /*---gamified-education-platform PAGE --*/
+    .education-platform-page .section-03 .conten-box {
+        position: relative;
+        transform: none;
+        top: auto;
+        left: auto;
+    }
+    .education-platform-page .section-04 {
+        padding-bottom: 0px;
+    }
+    .education-platform-page .section-05 {
+        padding-bottom: 0px;
+    }
+    .num-cont {
+        width: 40px;
+        height: 40px;
+        font-size: 24px;
+        font-weight: bold;
+        line-height: 40px;
+        margin-top: -50px;
+    }
+    .fin-edu {
+        margin-top: 50px;
+        border-radius: 30px;
+    }
+    .education-platform-page .section-06 {
+        margin-top: 50px;
+    }
+    .education-platform-page .section-06 .y-card {
+        border-radius: 40px;
+        min-height: 174px;
+    }
+    .education-platform-page .section-06 .y-card h3.y-title{
+        font-size: 16px;
+        line-height: 19px;
+    }
+    /*---financial-health PAGE --*/
+    .financial-health-page .section-03 {
+        margin-top: 50px;
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+    }
+    .financial-health-page .section-03 .conten-box {
+        position: relative;
+        transform: none;
+        top: auto;
+        left: auto;
+    }
+    .financial-health-page .section-03 .conten-box p {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .financial-health-page .section-04{
+        padding-bottom: 0;
+    }
+    .financial-health-page .section-04 .y-card svg {
+        width: 100%;
+        height: auto;
+    }
+    .super-hero-row{
+        flex-wrap: nowrap;
+        overflow: auto;
+    }
+    .super-hero {
+        border-radius: 30px;
+    }
+    .super-hero h4 {
+        font-size: 14px;
+        line-height: 16px;
+        margin-bottom: 0;
+    }
+    .super-hero p {
+        font-size: 12px;
+        line-height: 14px;
+    }
+    .supr-mob-icon{
+        min-height: 50px !important;
+    }
+    .financial-health-page .section-05 {
+        margin-bottom: 0;
+    }
+    .financial-health-page .section-06 .y-card-sm {
+        border-radius: 30px;
+        padding: 15px;
+    }
+    .financial-health-page .section-06 .curv-cont {
+        padding-top: 50px;
+        padding-bottom: 40px;
+    }
+    .financial-health-page .section-06 .y-card-sm h4{
+        font-size: 18px;
+        line-height: 21px;
+        margin-bottom: 45px;
+    }
+    .financial-health-page .section-06 .y-card-sm p{
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .evalution-row{
+        flex-wrap: nowrap;
+        overflow: auto;
+    }
+
+    /*---solutions-page PAGE --*/
+
+    .solutions-page .section-01 {
+        padding-top: 130px;
+        padding-bottom: 70px;
+    }
+    .solutions-page .section-01 .conten-box h3.y-title {
+        font-size: 28px;
+        line-height: 33px;
+    }
+    .solutions-page .section-02 .y-card {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        padding-left: 30px;
+        padding-right: 30px;
+        text-align: center;
+    }
+    .soul-box-cont.lf {
+        margin-right: 0px;
+    }
+    .soul-box-cont.rt {
+        margin-left: 0px;
+    }
+    .solutions-page .section-02 .y-card h3.y-title br{
+        display: none;
+    }
+
+    /*---yore-ai PAGE --*/
+    
+    .yore-ai-page .section-01 .conten-box{
+        text-align: center;
+    }
+    .yore-ai-page .section-01 .conten-box img{
+        padding: 20px;
+        max-height: 200px;
+    }
+    .yore-ai-page .section-01 .conten-box h3.y-title {
+        font-size: 28px;
+        line-height: 33px;
+    }
+    .yore-ai-page .section-03 {
+        padding-top: 0;
+    }
+    .why-card {
+        padding: 30px;
+        text-align: center;
+    }
+    .yore-ai-page .section-04 .y-card {
+        text-align: center;
+    }
+    .yore-ai-page .section-04 {
+        padding-top: 0px;
+        padding-bottom: 40px;
+    }
+    .yore-ai-page .section-04 .y-card h3.y-title br{
+        display: none;
+    }
+    .yi-animi-box{
+        min-height: 165px !important;
+        background: #FAFAFA;
+        border-radius: 23px;
+        margin-top: 30px;
+    }
+
+    /*---rewards PAGE --*/    
+    .rewards-page .section-01{
+        padding-top: 130px;
+        padding-bottom: 70px;
+    }
+    .rewards-page .section-01 .conten-box h3.y-title {
+        font-size: 28px;
+        line-height: 33px;
+    }
+    .rewards-page .section-03 {
+        padding-top: 50px;
+    }
+    .rewards-page .section-03 .y-card .mob-animi-box {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .rewards-page .section-03 .y-card .mob-animi-box img {
+        height: 140px;
+    }
+    
+    .rewards-page .section-03 .y-card h6 {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .rewards-page .section-04 {
+        padding-bottom: 0px;
+        padding-top: 0px;
+    }
+    .y-card-sm-blue {
+        border-radius: 30px;
+        padding: 15px;
+    }
+    .y-card-sm-blue h4{
+        font-size: 18px;
+        line-height: 21px;
+        margin-bottom: 45px;
+    }
+    .y-card-sm-blue p{
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .rewards-page .section-04 .curv-cont {
+        padding-top: 50px;
+        padding-bottom: 40px;
+    }
+    .token-uti {
+        padding: 15px;
+    }
+    .token-uti h4 {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .token-uti p {
+        font-size: 12px;
+        line-height: 14px;;
+    }
+    .rewards-page .section-06 {
+        padding-top: 0px;
+        padding-bottom: 50px;
+    }
+    /*---About us PAGE --*/ 
+    .about-page .section-01 {
+        padding-top: 130px;
+        padding-bottom: 90px;
+    }
+    .about-page   .section-01 .conten-box{
+        text-align: center;
+    }
+    .about-page   .section-01 .conten-box h3.y-title{
+        font-size: 28px;
+        line-height: 33px;
+        margin-bottom: 30px !important;
+    }
+    .about-page   .section-01 .ai-bnr-animi img{
+        height: 220px;
+    }
+    .about-page   .section-01 .ai-stor{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .about-page .section-02 .conten-box {
+        padding-top: 0px;
+        padding-bottom: 10px;
+    }
+    .about-page   .section-03 .y-card{
+        text-align: center;
+        margin-bottom: 25px;
+    }
+    .about-page   .section-03 .y-card img{
+        height: 100px;
+    }
+    .our-story-section {
+        padding-top: 0px;
+        padding-bottom: 20px;
+    }
+    .story-card {
+        width: 80%;
+        height: 374px;
+        border-radius: 20px;
+    }
+    h4.story-title{
+        font-size: 63px;
+        font-weight: bold;
+        line-height: 123.5%;
+        margin-bottom: 30px;
+        text-align: center;
+        color: #243257;
+    }
+    .connect-section {
+        padding-bottom: 0px;
+    }
+    .contact-box {
+        border-radius: 10px;
+        padding: 14px;
+    }
+    .contact-box p {
+        font-size: 10px;
+        padding-top: 12px;
+    }
+    .contact-box h4 {
+        font-size: 14px;
+        line-height: 16px;
+        margin-bottom: 0px;
+    }
+    .contact-box p span {
+        font-size: 9px;
+        border-radius: 3px;
+        padding: 1px 5px;
+        margin-left: 0px;
+    }
+    .faq-section {
+        padding-top: 30px;
+        padding-bottom: 70px;
+    }
+    .faq-area h2 button {
+        font-size: 16px;
+        line-height: 19px;
+        padding-top: 24px;
+        padding-bottom: 24px;
+    }
+    .faq-section h3.y-title{
+        text-align: center;
+    }
+    
+}

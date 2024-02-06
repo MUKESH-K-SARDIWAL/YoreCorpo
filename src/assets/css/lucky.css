@@ -1,0 +1,102 @@
+.lucky-spin-wrap .card{
+ border-radius: 20px;
+ box-shadow: 0px 0px 10px #ccc;
+}
+.lucky-spin-wrap .card input{
+    padding: 10px;
+    width: 60%;
+    margin: 0 auto;
+}
+.spin-titl{
+    margin-bottom: -40px;
+}
+.card{
+    width: 30rem;
+    padding: 30px;
+}
+.lucky-count{
+    display: grid;
+    justify-content: center;
+    margin-top: 2rem;
+}
+.lucky-count p{
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.lucky-count >.lucky-point{
+    width: 50px;
+    height: 50px;
+    background-color: #D8D8D8;
+    line-height: 50px;
+    border-radius: 50%;
+    margin-left: 50px;
+    font-weight: 700;
+    border: 1px solid #707070;
+    text-align: center;
+    font-size: 30px
+}
+
+.sprin-wrap{
+    position: relative;
+    margin-bottom: -40px;
+}
+.sprin-wrap img{
+    width: 100%;
+}
+
+.sprin-wrap img.wheel-bg{
+}
+.sprin-wrap img.mark-pin{
+    position: absolute;
+    top: 65px;
+    transform: translate(-50%, 0);
+    left: 50%;
+    height: 36px;
+}
+.sprin-wrap img.wheel{
+    position: absolute;
+    max-width: 288px;
+    left: 50px;
+    top: 50px;
+}
+
+.rotate3_st {
+    animation: rotate3fSpin 1s linear;
+    animation-iteration-count: 5;
+    animation-fill-mode: forwards;
+    /* animation: rotation 4s infinite linear; */
+}
+
+/* @-moz-keyframes spin {
+    from { -moz-transform: rotate(0deg); }
+    to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes spin {
+    from { -webkit-transform: rotate(0deg); }
+    to { -webkit-transform: rotate(360deg); }
+}
+@keyframes spin {
+    from {transform:rotate(0deg);}
+    to {transform:rotate(360deg);}
+} */
+
+
+
+/* @keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(359deg);
+    }
+  } */
+  
+ @keyframes rotate3fSpin {
+    0% {
+       transform:rotate(0deg);
+    }
+    100% {
+        transform:rotate(360deg);
+    }
+}
